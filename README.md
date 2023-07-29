@@ -1,7 +1,4 @@
 # JSON to Hosts Parser
-
-![Banner](https://example.com/banner.png)
-
 ## Description
 
 This tool is a Go (Golang) application that parses JSON data and extracts 
